@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hugo on Kris Github 架站術(hahow課程練習) </title>
+    <title>hugo on Kris 學習紀錄(hahow課程練習) </title>
     <link>https://kris04090513.github.io/tags/hugo/</link>
-    <description>Recent content in hugo on Kris Github 架站術(hahow課程練習) </description>
+    <description>Recent content in hugo on Kris 學習紀錄(hahow課程練習) </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 07 Jul 2021 22:00:47 +0800</lastBuildDate><atom:link href="https://kris04090513.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Jul 2021 22:00:47 +0800</lastBuildDate><atom:link href="https://kris04090513.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo DAY 4 challenge</title>
+      <link>https://kris04090513.github.io/blog/day4/</link>
+      <pubDate>Wed, 21 Jul 2021 22:00:47 +0800</pubDate>
+      
+      <guid>https://kris04090513.github.io/blog/day4/</guid>
+      <description>commit 更新網頁資料 當程式修改完成
+在cmd 命令提示字元上先終止hugo server [ctrl+C \ 關閉cmd 頁面]</description>
+    </item>
+    
     <item>
       <title>Hugo DAY 3 challenge 外部連結</title>
       <link>https://kris04090513.github.io/blog/day3/</link>
